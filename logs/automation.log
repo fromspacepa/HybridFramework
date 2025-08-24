@@ -1,18 +1,18 @@
-21:39:54.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-21:39:54.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-21:39:54.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-21:39:54.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-21:39:54.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-21:39:54.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-21:39:54.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-21:39:54.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-21:39:54.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-21:39:54.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-21:39:54.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-21:39:54.833 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
-21:39:57.010 [main] INFO  testCases.TC003_LoginDDT - *** Finished Testing: TC003_LoingDDT ***
-21:39:57.019 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
-21:39:59.119 [main] INFO  testCases.TC003_LoginDDT - *** Finished Testing: TC003_LoingDDT ***
-21:39:59.120 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
-21:40:03.916 [main] INFO  testCases.TC003_LoginDDT - *** Finished Testing: TC003_LoingDDT ***
-21:40:03.917 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
+17:39:34.100 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting the testCase: TC001_AccountRegistrationTest ***
+17:39:34.157 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on MyAccount Link ***
+17:39:34.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Registration Link ***
+17:39:34.801 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:39:35.106 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:39:36.772 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished the testCase: TC001_AccountRegistrationTest ***
+17:39:43.961 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting the testCase: TC001_AccountRegistrationTest ***
+17:39:44.008 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on MyAccount Link ***
+17:39:44.663 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Registration Link ***
+17:39:44.663 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:39:45.929 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:39:46.310 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished the testCase: TC001_AccountRegistrationTest ***
+17:39:53.910 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting the testCase: TC001_AccountRegistrationTest ***
+17:39:53.988 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on MyAccount Link ***
+17:39:54.663 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Registration Link ***
+17:39:54.664 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:39:55.960 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:39:56.370 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished the testCase: TC001_AccountRegistrationTest ***
