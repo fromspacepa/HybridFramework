@@ -1,0 +1,18 @@
+21:39:54.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:39:54.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:39:54.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:39:54.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:39:54.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:39:54.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:39:54.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:39:54.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:39:54.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:39:54.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:39:54.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:39:54.833 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
+21:39:57.010 [main] INFO  testCases.TC003_LoginDDT - *** Finished Testing: TC003_LoingDDT ***
+21:39:57.019 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
+21:39:59.119 [main] INFO  testCases.TC003_LoginDDT - *** Finished Testing: TC003_LoingDDT ***
+21:39:59.120 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
+21:40:03.916 [main] INFO  testCases.TC003_LoginDDT - *** Finished Testing: TC003_LoingDDT ***
+21:40:03.917 [main] INFO  testCases.TC003_LoginDDT - *** Start Testing: TC003_LoingDDT ***
